@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nourrkein
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nour.rkein@gmail.com
 
 <!---
