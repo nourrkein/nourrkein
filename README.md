@@ -1,4 +1,3 @@
-<img align="center" alt="header" width="99%" src="https://i.pinimg.com/564x/e2/bb/5c/e2bb5c390a93fd811ad376ef37e08a26.jpg">
 <h1 align="center">Hi 👋, I'm Nour Rkein</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/df/22/06df2287db963c5230f9b2d86e7728ba.gif">
