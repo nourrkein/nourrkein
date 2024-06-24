@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nour Rkein</h1>
+<h1 align="center">Hello 👋, I'm Nour Rkein</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/df/22/06df2287db963c5230f9b2d86e7728ba.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourrkein&label=Profile%20views&color=0e75b6&style=flat" alt="nourrkein" /> </p>
